@@ -1,0 +1,10 @@
+body{
+    background-image:url(./Media/circle-doodle-bg.png);
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    
+}
